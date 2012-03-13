@@ -1,0 +1,29 @@
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\angry.xnb
+C:\Users\Giovanni\Documents\Visual Studio 2010\Projects\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\shot.xnb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sprites\angry.xnb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sprites\shot.xnb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Backgrounds\bg1.xnb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Music\theme1.xnb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Music\theme1.wma
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe.manifest
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.application
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.TrustInfo.xml
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe.manifest
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.application
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sprites\volumeOn.xnb
+C:\Users\Giovanni\Desktop\Game\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Sprites\volumeOff.xnb
